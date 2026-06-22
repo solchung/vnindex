@@ -1,0 +1,499 @@
+[
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "TAN",
+    "score": 8,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 8.75 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "NAB",
+    "score": 7,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 2.14 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "KLB",
+    "score": 7,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 3.87 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "LSG",
+    "score": 7,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 4.87 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "PVP",
+    "score": 6,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 1.58 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "BAB",
+    "score": 6,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 15.15 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "POW",
+    "score": 5,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 2.18 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "BVB",
+    "score": 5,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 2.35 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "TCW",
+    "score": 5,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 2.41 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "VHL",
+    "score": 5,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 12.17 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "PVD",
+    "score": 3,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 2.51 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "PVS",
+    "score": 3,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 1.51 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "CSM",
+    "score": 3,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 5.81 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "BMP",
+    "score": 3,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 4.16 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "LSS",
+    "score": 3,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 5.34 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "GCB",
+    "score": 3,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 25.46 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "PDB",
+    "score": 3,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 2.01 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "PC1",
+    "score": 2,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 1.88 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "LHC",
+    "score": 2,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 2.16 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:33:41",
+    "ticker": "DGC",
+    "score": 1,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 3.06 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "MSB",
+    "score": 8,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 8 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "ABB",
+    "score": 8,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 8 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "PET",
+    "score": 8,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 8 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "TAN",
+    "score": 8,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 8 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "TAN",
+    "score": 8,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 8.75 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "DP3",
+    "score": 8,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 8 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "VKC",
+    "score": 8,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 8 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "MRF",
+    "score": 8,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 8 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "NAB",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "NAB",
+    "score": 7,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 2.14 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "KLB",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "KLB",
+    "score": 7,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 3.87 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "VTZ",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "VJC",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "VPL",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "C69",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "TVN",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "DRI",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "TLD",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "LSG",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "LSG",
+    "score": 7,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 4.87 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "DHC",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "VBB",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "FOC",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "CAP",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "VGR",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "AIG",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "THD",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "APF",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "ODE",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "SDV",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "CCA",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "ADC",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "MPT",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "TAB",
+    "score": 7,
+    "type": "Tăng Điểm (>7)",
+    "details": "Điểm số tăng vượt bậc lên 7 điểm (phiên trước: 0 điểm). Xếp hạng: Watchlist ưu tiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "PVP",
+    "score": 6,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 1.58 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "BAB",
+    "score": 6,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 15.15 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "POW",
+    "score": 5,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 2.18 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "BVB",
+    "score": 5,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 2.35 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "TCW",
+    "score": 5,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 2.41 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "VHL",
+    "score": 5,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 12.17 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "PVD",
+    "score": 3,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 2.51 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "PVS",
+    "score": 3,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 1.51 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "CSM",
+    "score": 3,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 5.81 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "BMP",
+    "score": 3,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 4.16 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "LSS",
+    "score": 3,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 5.34 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "GCB",
+    "score": 3,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 25.46 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "PDB",
+    "score": 3,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 2.01 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "PC1",
+    "score": 2,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 1.88 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "LHC",
+    "score": 2,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 2.16 lần trung bình 20 phiên."
+  },
+  {
+    "time": "2026-06-23 00:25:36",
+    "ticker": "DGC",
+    "score": 1,
+    "type": "Breakout Vol lớn",
+    "details": "Giá bứt phá vượt đỉnh ngắn hạn với khối lượng nổ gấp 3.06 lần trung bình 20 phiên."
+  }
+]
